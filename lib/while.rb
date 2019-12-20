@@ -4,6 +4,6 @@ def using_while
 	puts "Wingardium Leviosa"
 	counter += 1
 
-  until counter ==
+  until counter == 10
 
 end
