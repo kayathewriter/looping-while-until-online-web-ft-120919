@@ -5,5 +5,6 @@ def using_while
 	counter += 1
 
   until counter == 10
+  puts 
 
 end
